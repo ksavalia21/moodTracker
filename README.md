@@ -27,7 +27,7 @@ A minimalist iOS app built using **SwiftUI**, designed to help users track their
 
 - **SwiftUI**: For a clean and modern user interface.  
 - **UserDefaults**: For local storage of user data.  
-- **Core Graphics (Optional)**: For drawing simple trend charts.  
+- **Core Graphics**: For drawing simple trend charts.  
 
 ---
 
