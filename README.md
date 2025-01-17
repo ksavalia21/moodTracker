@@ -32,7 +32,10 @@ A minimalist iOS app built using **SwiftUI**, designed to help users track their
 ---
 
 ## 📱 Screenshots  
-*(Add screenshots of the app here to make the README visually appealing.)*  
+<img width="288" alt="1" src="https://github.com/user-attachments/assets/22662bcc-29e0-4918-8347-a9937b15dc4d" />
+<img width="284" alt="2" src="https://github.com/user-attachments/assets/01ed1116-cfc0-4abc-ba82-c26724d97e7a" />
+<img width="286" alt="Screenshot 2025-01-17 at 1 35 26 PM" src="https://github.com/user-attachments/assets/472bea6d-7b8a-4050-abf4-1c6112333a02" />
+
 
 ---
 
